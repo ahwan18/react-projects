@@ -1,8 +1,35 @@
-# React + Vite
+# React Contact App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React Contact App is a frontend contact-list project built with React and Vite.
 
-Currently, two official plugins are available:
+## What I Built
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Contact list UI
+- Contact input form
+- Contact item cards with image support
+- Delete contact interaction
+- Component-based React structure
+
+## Tech Stack
+
+- React
+- Vite
+- JavaScript
+- CSS
+
+## Project Structure
+
+```text
+src/
+  components/       Contact app UI components
+  utils/data.js     Initial contact data
+  styles/style.css  App styling
+```
+
+## Live Demo
+
+https://react-projects-weld-alpha.vercel.app
+
+## Notes
+
+This repository is a frontend learning project focused on component composition, props, state, and basic interaction patterns in React.
